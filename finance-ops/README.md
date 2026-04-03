@@ -123,3 +123,14 @@ Constraint: no single channel > 40% of total budget (diversification)
 - Revenue data source (Stripe, ChartMogul, or CSV export)
 - Marketing spend data by channel (ad platform exports)
 - Minimum 6 months of historical data for cohort analysis
+
+## Frequently Asked Questions
+
+**What's a healthy LTV:CAC ratio?**
+3:1 or better is the industry standard for SaaS. Below 1.5:1 means you're spending too much to acquire customers relative to their value.
+
+**How is the SaaS magic number calculated?**
+Quarter-over-quarter ARR growth divided by prior quarter's sales and marketing spend. Above 0.75 means you're ready to scale.
+
+**How far back should cohort analysis look?**
+24 months gives a solid view of retention curves and LTV trends. 12 months minimum if you're earlier stage.
