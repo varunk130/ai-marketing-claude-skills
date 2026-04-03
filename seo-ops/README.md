@@ -127,3 +127,9 @@ format_modifier: content matches feature format = 2.0, partial = 1.0, mismatch =
 > "Build content clusters for 'marketing automation' with a pillar page plan"
 > "Check for keyword cannibalization across our blog"
 ```
+
+## Prerequisites
+
+- Google Search Console access for target domain
+- Keyword research tool API (Ahrefs or Semrush)
+- List of 3-5 competitor domains for gap analysis
