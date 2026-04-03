@@ -120,3 +120,9 @@ Host-read mid-roll: CPM * 2.5
 > "Calculate our sponsorship rate card based on current download numbers"
 > "Extract the top 10 shareable clips from this week's episode"
 ```
+
+## Prerequisites
+
+- Podcast RSS feed URL or audio/video files
+- Download analytics access (Spotify for Podcasters or Apple Podcasts)
+- Social media scheduling tool for content distribution
