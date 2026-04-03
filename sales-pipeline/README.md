@@ -101,3 +101,14 @@ Call signals: inbound call (40pts), demo booked (50pts), referred by customer (1
 - CRM with deal data (HubSpot, Salesforce, or Pipedrive)
 - Lead enrichment API key (Clay, Apollo, or Clearbit)
 - Minimum 30 closed deals for predictive model training
+
+## Frequently Asked Questions
+
+**How often should the predictive model be retrained?**
+Monthly, using the last 12 months of closed deals. More frequent retraining helps if your market changes quickly.
+
+**What if I have fewer than 30 closed deals?**
+The predictive scoring model needs minimum 30 deals per segment. Use rule-based intent scoring in the meantime.
+
+**How does champion tracking work?**
+Weekly LinkedIn scans check if your key contacts have changed roles. When detected, you get an alert with their new company for re-engagement.
