@@ -118,3 +118,9 @@ Discount Bands: 0-10% (standard), 10-20% (negotiated), 20-30% (strategic), >30% 
 > "Show win/loss patterns for enterprise deals over 50K"
 > "Which champions changed jobs this week? Draft re-engagement outreach"
 ```
+
+## Prerequisites
+
+- Call intelligence platform (Gong, Chorus, or call transcripts)
+- CRM with win/loss tagged deals (minimum 30 per segment)
+- Competitor list for battlecard generation
