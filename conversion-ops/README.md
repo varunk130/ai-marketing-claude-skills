@@ -114,3 +114,14 @@ Target: total friction < 35
 - Landing page URL or HTML source
 - Heatmap tool access (Hotjar or Microsoft Clarity) recommended
 - Google Analytics 4 with conversion events configured
+
+## Frequently Asked Questions
+
+**Do I need heatmap data for the audit?**
+No — the 12-dimension audit works without heatmaps. But heatmap data from Hotjar or Clarity significantly improves the analysis.
+
+**What's a good CRO score?**
+Above 75/100 is strong. Most pages score 45-65 on first audit. Focus on the lowest-scoring dimensions first for maximum impact.
+
+**How does Cialdini scoring work?**
+Each of the 6 persuasion principles is scored 0-10 based on how well the page implements it. Total is normalized to 0-100.
