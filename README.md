@@ -1,11 +1,13 @@
 <div align="center">
 
-# 🚀 AI Marketing Claude Skills
+# AI Marketing Claude Skills
 
-### Production-Ready Marketing Automation for AI Coding Agents
+### AI-Powered Marketing Skills to Automate Operations and Drive ROI
+
+Built by **[Varun Kulkarni](https://github.com/varunk130)**
 
 **11 battle-tested skills** with scoring algorithms, statistical frameworks, and actionable outputs.
-Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [Cursor](https://cursor.sh), [OpenAI Codex](https://openai.com/codex), and any agent that supports markdown skill files.
+Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [GitHub Copilot](https://github.com/features/copilot), [Cursor](https://cursor.sh), [OpenAI Codex](https://openai.com/codex), and any agent that supports markdown skill files.
 
 [![Skills](https://img.shields.io/badge/Skills-11-blue?style=for-the-badge)](#-skill-catalog)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -29,66 +31,21 @@ Each skill is a **self-contained markdown file** that transforms your AI coding 
 
 ---
 
-## 🏗️ Architecture Overview
-
-```mermaid
-graph TB
-    subgraph INPUT["🎯 Input Layer"]
-        NL["Natural Language Command"]
-        DATA["Marketing Data<br/><i>CSV · API · CRM</i>"]
-    end
-
-    subgraph SKILLS["⚙️ AI Marketing Skills Engine"]
-        direction TB
-        GE["🧪 Growth Engine"]
-        SP["🎯 Sales Pipeline"]
-        CO["✍️ Content Ops"]
-        CV["📈 Conversion Ops"]
-        OE["📧 Outbound Engine"]
-        SE["🔍 SEO Ops"]
-        FO["💰 Finance Ops"]
-        RI["🧠 Revenue Intel"]
-        PO["🎙️ Podcast Ops"]
-        TO["👥 Team Ops"]
-        SB["📋 Sales Playbook"]
-    end
-
-    subgraph OUTPUT["📊 Output Layer"]
-        RPT["Reports & Dashboards"]
-        SCR["Scorecards & Matrices"]
-        ACT["Action Plans & Calendars"]
-        ALT["Alerts & Notifications"]
-    end
-
-    NL --> SKILLS
-    DATA --> SKILLS
-    SKILLS --> RPT
-    SKILLS --> SCR
-    SKILLS --> ACT
-    SKILLS --> ALT
-
-    style INPUT fill:#1a1a2e,stroke:#e94560,color:#fff
-    style SKILLS fill:#16213e,stroke:#0f3460,color:#fff
-    style OUTPUT fill:#1a1a2e,stroke:#e94560,color:#fff
-```
-
----
-
 ## 📋 Skill Catalog
 
 | # | Skill | Key Differentiations | Link |
 |:-:|-------|---------------------|:----:|
-| 1 | **🧪 Growth Engine** | Bayesian testing, multi-armed bandits, CUPED variance reduction, experiment dependency graphs | [→](./growth-engine/) |
-| 2 | **🎯 Sales Pipeline** | Multi-channel intent scoring, AI enrichment (Clay/Apollo), predictive logistic regression, champion job tracking | [→](./sales-pipeline/) |
-| 3 | **✍️ Content Ops** | Flesch-Kincaid + Dale-Chall readability, AI detection patterns, content decay monitoring, auto-refresh scheduling | [→](./content-ops/) |
-| 4 | **📈 Conversion Ops** | Heatmap-aware audits, session replay archetypes, micro-conversion funnels, Cialdini 6-principle scoring | [→](./conversion-ops/) |
-| 5 | **📧 Outbound Engine** | Multi-channel sequences (email+LinkedIn+video), deliverability warmup planner, timezone-aware scheduling, reply classification | [→](./outbound-engine/) |
-| 6 | **🔍 SEO Ops** | GEO/AEO optimization, topical authority mapping, SERP feature win probability, cannibalization detection | [→](./seo-ops/) |
-| 7 | **💰 Finance Ops** | Cohort LTV/CAC, channel unit economics, SaaS magic number, budget allocation optimizer | [→](./finance-ops/) |
-| 8 | **🧠 Revenue Intelligence** | Win/loss pattern recognition (chi-square), auto-generated battlecards, pricing sensitivity cliff analysis, champion tracking | [→](./revenue-intelligence/) |
-| 9 | **🎙️ Podcast Ops** | Guest fit scoring, sponsorship CPM calculator, cross-promo network mapping, audiogram automation | [→](./podcast-ops/) |
-| 10 | **👥 Team Ops** | Skills gap matrix, capacity utilization tracking, 1:1 prep generator, OKR trajectory scoring | [→](./team-ops/) |
-| 11 | **📋 Sales Playbook** | MEDDPICC+BANT hybrid, mutual action plans, ROI calculator with NPV, competitive displacement scoring | [→](./sales-playbook/) |
+| 1 | **Growth Engine** | Bayesian testing, multi-armed bandits, CUPED variance reduction, experiment dependency graphs | [→](./growth-engine/) |
+| 2 | **Sales Pipeline** | Multi-channel intent scoring, AI enrichment (Clay/Apollo), predictive logistic regression, champion job tracking | [→](./sales-pipeline/) |
+| 3 | **Content Ops** | Flesch-Kincaid + Dale-Chall readability, AI detection patterns, content decay monitoring, auto-refresh scheduling | [→](./content-ops/) |
+| 4 | **Conversion Ops** | Heatmap-aware audits, session replay archetypes, micro-conversion funnels, Cialdini 6-principle scoring | [→](./conversion-ops/) |
+| 5 | **Outbound Engine** | Multi-channel sequences (email+LinkedIn+video), deliverability warmup planner, timezone-aware scheduling, reply classification | [→](./outbound-engine/) |
+| 6 | **SEO Ops** | GEO/AEO optimization, topical authority mapping, SERP feature win probability, cannibalization detection | [→](./seo-ops/) |
+| 7 | **Finance Ops** | Cohort LTV/CAC, channel unit economics, SaaS magic number, budget allocation optimizer | [→](./finance-ops/) |
+| 8 | **Revenue Intelligence** | Win/loss pattern recognition (chi-square), auto-generated battlecards, pricing sensitivity cliff analysis, champion tracking | [→](./revenue-intelligence/) |
+| 9 | **Podcast Ops** | Guest fit scoring, sponsorship CPM calculator, cross-promo network mapping, audiogram automation | [→](./podcast-ops/) |
+| 10 | **Team Ops** | Skills gap matrix, capacity utilization tracking, 1:1 prep generator, OKR trajectory scoring | [→](./team-ops/) |
+| 11 | **Sales Playbook** | MEDDPICC+BANT hybrid, mutual action plans, ROI calculator with NPV, competitive displacement scoring | [→](./sales-playbook/) |
 
 ---
 
@@ -155,39 +112,41 @@ Skills are designed to work independently **or** together. Here's how they conne
 
 ```mermaid
 graph LR
-    SP["🎯 Sales<br/>Pipeline"] -->|qualified leads| OE["📧 Outbound<br/>Engine"]
-    OE -->|meetings booked| SB["📋 Sales<br/>Playbook"]
-    SB -->|deal intel| RI["🧠 Revenue<br/>Intel"]
+    SP["Sales<br/>Pipeline"] -->|qualified leads| OE["Outbound<br/>Engine"]
+    OE -->|meetings booked| SB["Sales<br/>Playbook"]
+    SB -->|deal intel| RI["Revenue<br/>Intel"]
     RI -->|battlecards| SB
 
-    SE["🔍 SEO Ops"] -->|traffic| CV["📈 Conversion<br/>Ops"]
-    CV -->|optimized pages| GE["🧪 Growth<br/>Engine"]
-    GE -->|winning variants| CO["✍️ Content<br/>Ops"]
+    SE["SEO Ops"] -->|traffic| CV["Conversion<br/>Ops"]
+    CV -->|optimized pages| GE["Growth<br/>Engine"]
+    GE -->|winning variants| CO["Content<br/>Ops"]
     CO -->|content| SE
 
-    FO["💰 Finance<br/>Ops"] -.->|budget| OE
+    FO["Finance<br/>Ops"] -.->|budget| OE
     FO -.->|ROI data| GE
-    PO["🎙️ Podcast<br/>Ops"] -.->|content atoms| CO
-    TO["👥 Team<br/>Ops"] -.->|capacity| FO
+    PO["Podcast<br/>Ops"] -.->|content atoms| CO
+    TO["Team<br/>Ops"] -.->|capacity| FO
 
-    style SP fill:#e94560,stroke:#fff,color:#fff
-    style OE fill:#e94560,stroke:#fff,color:#fff
-    style SB fill:#e94560,stroke:#fff,color:#fff
-    style RI fill:#e94560,stroke:#fff,color:#fff
-    style SE fill:#0f3460,stroke:#fff,color:#fff
-    style CV fill:#0f3460,stroke:#fff,color:#fff
-    style GE fill:#0f3460,stroke:#fff,color:#fff
-    style CO fill:#0f3460,stroke:#fff,color:#fff
-    style FO fill:#533483,stroke:#fff,color:#fff
-    style PO fill:#533483,stroke:#fff,color:#fff
-    style TO fill:#533483,stroke:#fff,color:#fff
+    style SP fill:#FF6B6B,stroke:#CC5555,color:#fff
+    style OE fill:#FF8E72,stroke:#CC7159,color:#fff
+    style SB fill:#FF6B6B,stroke:#CC5555,color:#fff
+    style RI fill:#FF8E72,stroke:#CC7159,color:#fff
+    style SE fill:#4ECDC4,stroke:#3BA39B,color:#fff
+    style CV fill:#45B7AA,stroke:#368A80,color:#fff
+    style GE fill:#4ECDC4,stroke:#3BA39B,color:#fff
+    style CO fill:#45B7AA,stroke:#368A80,color:#fff
+    style FO fill:#7C83FD,stroke:#5F65CC,color:#fff
+    style PO fill:#9B8FFF,stroke:#7A70CC,color:#fff
+    style TO fill:#7C83FD,stroke:#5F65CC,color:#fff
 ```
 
 <div align="center">
 
-🔴 **Sales Track** — Lead → Outreach → Close → Intelligence loop
-🔵 **Growth Track** — SEO → Conversion → Experiment → Content loop
-🟣 **Ops Track** — Finance, Podcast, and Team supporting both tracks
+| Track | Skills | Flow |
+|:------|:-------|:-----|
+| 🔴 **Sales & Revenue** | Sales Pipeline → Outbound → Playbook → Revenue Intel | Lead to close loop |
+| 🟢 **Growth & Content** | SEO Ops → Conversion → Growth Engine → Content Ops | Traffic to optimization loop |
+| 🔵 **Operations** | Finance Ops · Podcast Ops · Team Ops | Cross-functional support layer |
 
 </div>
 
@@ -246,8 +205,6 @@ MIT — use these skills however you like.
 ---
 
 <div align="center">
-
-**Built with ❤️ for the AI-native marketing team.**
 
 *Star ⭐ this repo if these skills save you time.*
 
