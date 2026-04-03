@@ -136,3 +136,9 @@ timeline_alignment: contract ending soon (10), mid-contract (5), recently renewe
 > "Build an ROI model for Acme Corp with 3-year NPV projection"
 > "Create a competitive displacement playbook for replacing Competitor X"
 ```
+
+## Prerequisites
+
+- CRM with active pipeline deals
+- Call recording or transcript access for post-call analysis
+- Industry benchmark data for ROI calculator (case studies)
