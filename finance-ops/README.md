@@ -117,3 +117,9 @@ Constraint: no single channel > 40% of total budget (diversification)
 > "Show CAC and payback period by acquisition channel"
 > "Run a scenario analysis — what if churn drops 2% and ARPU grows 15%?"
 ```
+
+## Prerequisites
+
+- Revenue data source (Stripe, ChartMogul, or CSV export)
+- Marketing spend data by channel (ad platform exports)
+- Minimum 6 months of historical data for cohort analysis
