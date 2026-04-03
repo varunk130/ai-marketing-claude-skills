@@ -126,3 +126,14 @@ Host-read mid-roll: CPM * 2.5
 - Podcast RSS feed URL or audio/video files
 - Download analytics access (Spotify for Podcasters or Apple Podcasts)
 - Social media scheduling tool for content distribution
+
+## Frequently Asked Questions
+
+**How many content pieces per episode?**
+25+ pieces across platforms: LinkedIn posts, tweets, short-form video scripts, newsletter sections, blog posts, quote cards, and carousels.
+
+**How is guest fit scored?**
+Five factors weighted: audience overlap (30%), reach multiplier (25%), content alignment (20%), promotion engagement (15%), booking feasibility (10%).
+
+**What makes a clip shareable?**
+Four factors: novelty, controversy, utility, and emotional resonance. Each scored and combined into a viral potential score.
