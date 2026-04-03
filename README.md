@@ -27,7 +27,7 @@ Each skill is a **self-contained markdown file** that transforms your AI coding 
 >
 > **"Score this lead from Acme Corp"** → Sales Pipeline runs multi-channel intent scoring
 >
-> **"Audit our landing page for conversions"** → Conversion Ops runs 12-dimension CRO analysis
+> **"Audit our landing page for conversions"** → Conversion runs 12-dimension Conversion Rate Optimization (CRO) analysis
 
 ---
 
@@ -35,17 +35,17 @@ Each skill is a **self-contained markdown file** that transforms your AI coding 
 
 | # | Skill | Key Differentiations | Link |
 |:-:|-------|---------------------|:----:|
-| 1 | **Growth Engine** | Bayesian testing, multi-armed bandits, CUPED variance reduction, experiment dependency graphs | [→](./growth-engine/) |
+| 1 | **Growth Engine** | Bayesian testing, multi-armed bandits, Controlled-experiment Using Pre-Experiment Data (CUPED) variance reduction, experiment dependency graphs | [→](./growth-engine/) |
 | 2 | **Sales Pipeline** | Multi-channel intent scoring, AI enrichment (Clay/Apollo), predictive logistic regression, champion job tracking | [→](./sales-pipeline/) |
-| 3 | **Content Ops** | Flesch-Kincaid + Dale-Chall readability, AI detection patterns, content decay monitoring, auto-refresh scheduling | [→](./content-ops/) |
-| 4 | **Conversion Ops** | Heatmap-aware audits, session replay archetypes, micro-conversion funnels, Cialdini 6-principle scoring | [→](./conversion-ops/) |
+| 3 | **Content** | Readability scoring, AI detection patterns, content decay monitoring, auto-refresh scheduling | [→](./content-ops/) |
+| 4 | **Conversion** | Heatmap-aware audits, session replay archetypes, micro-conversion funnels, Cialdini 6-principle scoring | [→](./conversion-ops/) |
 | 5 | **Outbound Engine** | Multi-channel sequences (email+LinkedIn+video), deliverability warmup planner, timezone-aware scheduling, reply classification | [→](./outbound-engine/) |
-| 6 | **SEO Ops** | GEO/AEO optimization, topical authority mapping, SERP feature win probability, cannibalization detection | [→](./seo-ops/) |
-| 7 | **Finance Ops** | Cohort LTV/CAC, channel unit economics, SaaS magic number, budget allocation optimizer | [→](./finance-ops/) |
+| 6 | **Search Engine Optimization (SEO)** | Generative Engine Optimization (GEO) / Answer Engine Optimization (AEO), topical authority mapping, Search Engine Results Page (SERP) feature win probability, cannibalization detection | [→](./seo-ops/) |
+| 7 | **Finance** | Cohort Lifetime Value (LTV) / Customer Acquisition Cost (CAC), channel unit economics, Software as a Service (SaaS) magic number, budget allocation optimizer | [→](./finance-ops/) |
 | 8 | **Revenue Intelligence** | Win/loss pattern recognition (chi-square), auto-generated battlecards, pricing sensitivity cliff analysis, champion tracking | [→](./revenue-intelligence/) |
-| 9 | **Podcast Ops** | Guest fit scoring, sponsorship CPM calculator, cross-promo network mapping, audiogram automation | [→](./podcast-ops/) |
-| 10 | **Team Ops** | Skills gap matrix, capacity utilization tracking, 1:1 prep generator, OKR trajectory scoring | [→](./team-ops/) |
-| 11 | **Sales Playbook** | MEDDPICC+BANT hybrid, mutual action plans, ROI calculator with NPV, competitive displacement scoring | [→](./sales-playbook/) |
+| 9 | **Podcast** | Guest fit scoring, sponsorship Cost Per Mille (CPM) calculator, cross-promo network mapping, audiogram automation | [→](./podcast-ops/) |
+| 10 | **Team** | Skills gap matrix, capacity utilization tracking, 1:1 prep generator, Objectives and Key Results (OKR) trajectory scoring | [→](./team-ops/) |
+| 11 | **Sales Playbook** | MEDDPICC + Budget, Authority, Need, Timeline (BANT) hybrid, mutual action plans, Return on Investment (ROI) calculator with Net Present Value (NPV), competitive displacement scoring | [→](./sales-playbook/) |
 
 ---
 
@@ -117,15 +117,15 @@ graph LR
     SB -->|deal intel| RI["Revenue<br/>Intel"]
     RI -->|battlecards| SB
 
-    SE["SEO Ops"] -->|traffic| CV["Conversion<br/>Ops"]
+    SE["SEO"] -->|traffic| CV["Conversion"]
     CV -->|optimized pages| GE["Growth<br/>Engine"]
-    GE -->|winning variants| CO["Content<br/>Ops"]
+    GE -->|winning variants| CO["Content"]
     CO -->|content| SE
 
-    FO["Finance<br/>Ops"] -.->|budget| OE
+    FO["Finance"] -.->|budget| OE
     FO -.->|ROI data| GE
-    PO["Podcast<br/>Ops"] -.->|content atoms| CO
-    TO["Team<br/>Ops"] -.->|capacity| FO
+    PO["Podcast"] -.->|content atoms| CO
+    TO["Team"] -.->|capacity| FO
 
     style SP fill:#FF6B6B,stroke:#CC5555,color:#fff
     style OE fill:#FF8E72,stroke:#CC7159,color:#fff
@@ -145,8 +145,8 @@ graph LR
 | Track | Skills | Flow |
 |:------|:-------|:-----|
 | 🔴 **Sales & Revenue** | Sales Pipeline → Outbound → Playbook → Revenue Intel | Lead to close loop |
-| 🟢 **Growth & Content** | SEO Ops → Conversion → Growth Engine → Content Ops | Traffic to optimization loop |
-| 🔵 **Operations** | Finance Ops · Podcast Ops · Team Ops | Cross-functional support layer |
+| 🟢 **Growth & Content** | SEO → Conversion → Growth Engine → Content | Traffic to optimization loop |
+| 🔵 **Operations** | Finance · Podcast · Team | Cross-functional support layer |
 
 </div>
 
