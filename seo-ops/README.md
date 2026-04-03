@@ -133,3 +133,14 @@ format_modifier: content matches feature format = 2.0, partial = 1.0, mismatch =
 - Google Search Console access for target domain
 - Keyword research tool API (Ahrefs or Semrush)
 - List of 3-5 competitor domains for gap analysis
+
+## Frequently Asked Questions
+
+**What is GEO/AEO and why does it matter?**
+Generative Engine Optimization prepares content for AI search engines like ChatGPT and Perplexity. AEO optimizes for direct answer features. Both are critical as AI search grows.
+
+**How do I prioritize keywords?**
+Use the Impact x Confidence matrix. Impact factors in volume, CPC, and funnel stage. Confidence considers difficulty, current rankings, and topical authority.
+
+**What triggers a cannibalization flag?**
+60% or more keyword overlap between two of your pages competing for the same query.
