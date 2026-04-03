@@ -86,3 +86,9 @@ BANDIT_EXPLORATION_RATE=0.1     # epsilon for Thompson Sampling
 > "Check for conflicting experiments before launching the checkout flow test"
 > "Calculate sample size for a 15% MDE on email click-through rate"
 ```
+
+## Prerequisites
+
+- Access to experiment tracking tool (LaunchDarkly, Statsig, or CSV logs)
+- Historical conversion data (minimum 2 weeks)
+- Defined success metrics and guardrail metrics
