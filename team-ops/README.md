@@ -136,3 +136,14 @@ Unhealthy: carryover > 35% OR velocity declining 2+ consecutive sprints
 - Team roster with roles and weekly capacity hours
 - Project management tool (Linear, Asana, Jira, or Notion)
 - Quarterly OKRs defined with measurable key results
+
+## Frequently Asked Questions
+
+**What utilization rate should I target?**
+75% is optimal. Above 85% signals overtime risk and burnout. Below 60% means the team has significant unused capacity.
+
+**How does OKR trajectory scoring work?**
+Compares actual progress against expected progress based on time elapsed. On-track means 70%+ of expected, at-risk is 40-70%, off-track is below 40%.
+
+**When does the 1:1 prep doc generate?**
+24 hours before each scheduled 1:1. It pulls recent wins, blockers, metric changes, and growth topics automatically.
