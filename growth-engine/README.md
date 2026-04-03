@@ -92,3 +92,14 @@ BANDIT_EXPLORATION_RATE=0.1     # epsilon for Thompson Sampling
 - Access to experiment tracking tool (LaunchDarkly, Statsig, or CSV logs)
 - Historical conversion data (minimum 2 weeks)
 - Defined success metrics and guardrail metrics
+
+## Frequently Asked Questions
+
+**How many samples do I need before results are reliable?**
+Depends on channel. Email: ~2,000 per variant. Paid ads: ~500. Homepage: ~10,000. CUPED can reduce these by 30-50%.
+
+**When should I use Bayesian vs frequentist testing?**
+Bayesian is recommended for most marketing tests — it gives probability statements (94% chance B is better) instead of binary p-values. Use frequentist when you need regulatory-style rigor.
+
+**Can I run multiple experiments at once?**
+Yes, but check the dependency graph first. Overlapping experiments on the same funnel stage can contaminate results.
