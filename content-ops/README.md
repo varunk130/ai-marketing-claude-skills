@@ -110,3 +110,14 @@ age_multiplier: <6mo = 0.5, 6-12mo = 1.0, 12-24mo = 1.5, >24mo = 2.0
 - Content library or CMS access (WordPress, Webflow, or Notion)
 - Google Search Console credentials for decay monitoring
 - Brand voice guidelines document
+
+## Frequently Asked Questions
+
+**What score does content need to pass the publishing gate?**
+Panel score of 90/100 or above, plus passing marks on readability, originality, and brand voice consistency.
+
+**How often should I run content decay checks?**
+Monthly is recommended. The system flags pages with more than 20% traffic decline over 90 days.
+
+**Can I customize the expert panel evaluators?**
+Yes. Each evaluator focuses on a specific dimension (SEO, engagement, brand voice). You can add, remove, or reweight them.
