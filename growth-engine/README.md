@@ -78,3 +78,11 @@ BANDIT_EXPLORATION_RATE=0.1     # epsilon for Thompson Sampling
 - LaunchDarkly / Statsig (feature flags)
 - Slack (experiment alerts and weekly digests)
 - Any CSV export (manual metric logging)
+
+## Example Usage
+
+```
+> "Run a Bayesian A/B test on our pricing page with 90% confidence threshold"
+> "Check for conflicting experiments before launching the checkout flow test"
+> "Calculate sample size for a 15% MDE on email click-through rate"
+```
