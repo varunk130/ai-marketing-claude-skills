@@ -95,3 +95,9 @@ Call signals: inbound call (40pts), demo booked (50pts), referred by customer (1
 > "Show all stalled deals past discovery stage"
 > "Enrich the Q2 lead list with firmographic data via Clay"
 ```
+
+## Prerequisites
+
+- CRM with deal data (HubSpot, Salesforce, or Pipedrive)
+- Lead enrichment API key (Clay, Apollo, or Clearbit)
+- Minimum 30 closed deals for predictive model training
