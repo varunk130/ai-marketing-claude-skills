@@ -122,3 +122,11 @@ Unhealthy: carryover > 35% OR velocity declining 2+ consecutive sprints
 - Slack (weekly digests, capacity alerts, meeting summaries)
 - Google Sheets (skills matrix, OKR tracking)
 - Lattice / 15Five (performance review data)
+
+## Example Usage
+
+```
+> "Generate 1:1 prep doc for my meeting with Sarah tomorrow"
+> "Show team capacity forecast for the next 4 weeks"
+> "Run a skills gap analysis and recommend hire vs train vs outsource"
+```

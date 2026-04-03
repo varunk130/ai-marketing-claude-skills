@@ -100,3 +100,11 @@ Target: total friction < 35
 - Screaming Frog / Playwright (competitor crawling)
 - Figma (annotated screenshot exports)
 - Slack (audit result notifications)
+
+## Example Usage
+
+```
+> "Audit acme.com/pricing for conversion optimization"
+> "Map the micro-conversion funnel and find the biggest drop-off"
+> "Score our landing page against Cialdini's 6 persuasion principles"
+```

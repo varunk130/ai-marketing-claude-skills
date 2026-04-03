@@ -96,3 +96,11 @@ age_multiplier: <6mo = 0.5, 6-12mo = 1.0, 12-24mo = 1.5, >24mo = 2.0
 - WordPress / Webflow (published content scanning)
 - Grammarly API (supplementary readability data)
 - Slack (decay alerts, panel notifications)
+
+## Example Usage
+
+```
+> "Score this blog draft with the expert panel and check readability"
+> "Show content decay report — what needs refreshing this month?"
+> "Extract reusable atoms from our latest whitepaper"
+```
