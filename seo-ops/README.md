@@ -119,3 +119,11 @@ format_modifier: content matches feature format = 2.0, partial = 1.0, mismatch =
 - Clearscope / Surfer SEO (content optimization)
 - Google PageSpeed Insights (Core Web Vitals)
 - Slack (weekly brief delivery, alert notifications)
+
+## Example Usage
+
+```
+> "Run an SEO audit for acme.com and score keyword opportunities"
+> "Build content clusters for 'marketing automation' with a pillar page plan"
+> "Check for keyword cannibalization across our blog"
+```

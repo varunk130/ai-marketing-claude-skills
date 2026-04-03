@@ -99,3 +99,11 @@ Green: > 1.2x | Yellow: 0.8-1.2x | Red: < 0.8x
 - Google Postmaster Tools (domain reputation)
 - HubSpot / Salesforce (CRM sync)
 - Slack (reply alerts, performance digests)
+
+## Example Usage
+
+```
+> "Build a 5-step outbound sequence for VP Marketing at mid-market SaaS"
+> "Generate a 14-day warmup schedule for our new sending domain"
+> "A/B test these 3 subject lines on 10% of the list first"
+```

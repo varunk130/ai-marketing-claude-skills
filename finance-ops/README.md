@@ -109,3 +109,11 @@ Constraint: no single channel > 40% of total budget (diversification)
 - HubSpot / Salesforce (deal and customer acquisition data)
 - Google Sheets (manual data import/export)
 - Slack (monthly digest, burn rate alerts)
+
+## Example Usage
+
+```
+> "Calculate LTV by cohort for the last 12 months"
+> "Show CAC and payback period by acquisition channel"
+> "Run a scenario analysis — what if churn drops 2% and ARPU grows 15%?"
+```

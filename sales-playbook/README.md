@@ -128,3 +128,11 @@ timeline_alignment: contract ending soon (10), mid-contract (5), recently renewe
 - G2 / Capterra (competitor review intelligence)
 - Slack (deal alerts, weekly review notifications)
 - Google Sheets (ROI model sharing, benchmark data)
+
+## Example Usage
+
+```
+> "Qualify this deal using MEDDPICC + BANT and show the gaps"
+> "Build an ROI model for Acme Corp with 3-year NPV projection"
+> "Create a competitive displacement playbook for replacing Competitor X"
+```

@@ -112,3 +112,11 @@ Host-read mid-roll: CPM * 2.5
 - Canva API (audiogram and quote card generation)
 - Slack (episode processing alerts, guest pipeline updates)
 - Google Sheets (guest tracking, sponsorship CRM)
+
+## Example Usage
+
+```
+> "Score these 10 guest candidates for our AI marketing series"
+> "Calculate our sponsorship rate card based on current download numbers"
+> "Extract the top 10 shareable clips from this week's episode"
+```
