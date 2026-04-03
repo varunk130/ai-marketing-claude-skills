@@ -124,3 +124,14 @@ Discount Bands: 0-10% (standard), 10-20% (negotiated), 20-30% (strategic), >30% 
 - Call intelligence platform (Gong, Chorus, or call transcripts)
 - CRM with win/loss tagged deals (minimum 30 per segment)
 - Competitor list for battlecard generation
+
+## Frequently Asked Questions
+
+**How many deals do I need for win/loss analysis?**
+Minimum 30 deals per segment for statistical significance. The system uses chi-square tests with p < 0.05 threshold.
+
+**How often are battlecards updated?**
+Weekly by default. The system monitors competitor mentions in sales calls and public content to keep cards current.
+
+**What is the pricing cliff?**
+The discount level where win rate stops meaningfully improving. Beyond this point, deeper discounts don't increase close rates.
