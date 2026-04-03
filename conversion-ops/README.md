@@ -108,3 +108,9 @@ Target: total friction < 35
 > "Map the micro-conversion funnel and find the biggest drop-off"
 > "Score our landing page against Cialdini's 6 persuasion principles"
 ```
+
+## Prerequisites
+
+- Landing page URL or HTML source
+- Heatmap tool access (Hotjar or Microsoft Clarity) recommended
+- Google Analytics 4 with conversion events configured
