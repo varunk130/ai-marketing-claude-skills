@@ -142,3 +142,14 @@ timeline_alignment: contract ending soon (10), mid-contract (5), recently renewe
 - CRM with active pipeline deals
 - Call recording or transcript access for post-call analysis
 - Industry benchmark data for ROI calculator (case studies)
+
+## Frequently Asked Questions
+
+**What's the minimum deal qualification score to proceed?**
+60/100 is the default threshold. Below that, the deal needs more discovery before advancing to the next stage.
+
+**How does the ROI calculator work?**
+Compares current state costs against future state with your product. Outputs annual savings, revenue impact, payback period, and 3-year NPV.
+
+**What is MEDDPICC?**
+Metrics, Economic Buyer, Decision Process, Decision Criteria, Paper Process, Implicate Pain, Champion, Competition — a structured deal qualification methodology.
