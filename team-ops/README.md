@@ -130,3 +130,9 @@ Unhealthy: carryover > 35% OR velocity declining 2+ consecutive sprints
 > "Show team capacity forecast for the next 4 weeks"
 > "Run a skills gap analysis and recommend hire vs train vs outsource"
 ```
+
+## Prerequisites
+
+- Team roster with roles and weekly capacity hours
+- Project management tool (Linear, Asana, Jira, or Notion)
+- Quarterly OKRs defined with measurable key results
