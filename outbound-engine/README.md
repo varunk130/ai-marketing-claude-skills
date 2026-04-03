@@ -113,3 +113,14 @@ Green: > 1.2x | Yellow: 0.8-1.2x | Red: < 0.8x
 - Sending domain with SPF, DKIM, and DMARC configured
 - Email sequencing tool (Instantly, Smartlead, or Lemlist)
 - Prospect list with verified email addresses
+
+## Frequently Asked Questions
+
+**How long does domain warmup take?**
+14 days minimum for new domains, ramping from 5 emails/day to your target volume. Rushing warmup risks domain reputation damage.
+
+**What's the maximum safe daily email volume?**
+50 per inbox per day for cold outreach. Use multiple inboxes to scale while maintaining deliverability.
+
+**How does reply classification work?**
+Responses are auto-categorized as: Interested, Meeting Booked, Not Now, Not Interested, Out of Office, Bounced, or Unsubscribe.
