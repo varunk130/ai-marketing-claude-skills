@@ -87,3 +87,11 @@ Call signals: inbound call (40pts), demo booked (50pts), referred by customer (1
 - LinkedIn Sales Navigator (champion tracking)
 - Slack (alerts and digests)
 - PostgreSQL (historical deal data)
+
+## Example Usage
+
+```
+> "Score this lead from Acme Corp and check ICP match"
+> "Show all stalled deals past discovery stage"
+> "Enrich the Q2 lead list with firmographic data via Clay"
+```
