@@ -110,3 +110,11 @@ Discount Bands: 0-10% (standard), 10-20% (negotiated), 20-30% (strategic), >30% 
 - G2 / Capterra (competitor review monitoring)
 - Slack (alerts, weekly brief delivery)
 - Google Sheets (manual data supplements)
+
+## Example Usage
+
+```
+> "Generate a battlecard for Competitor X based on last quarter's calls"
+> "Show win/loss patterns for enterprise deals over 50K"
+> "Which champions changed jobs this week? Draft re-engagement outreach"
+```
