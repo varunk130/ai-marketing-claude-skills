@@ -107,3 +107,9 @@ Green: > 1.2x | Yellow: 0.8-1.2x | Red: < 0.8x
 > "Generate a 14-day warmup schedule for our new sending domain"
 > "A/B test these 3 subject lines on 10% of the list first"
 ```
+
+## Prerequisites
+
+- Sending domain with SPF, DKIM, and DMARC configured
+- Email sequencing tool (Instantly, Smartlead, or Lemlist)
+- Prospect list with verified email addresses
