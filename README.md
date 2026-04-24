@@ -97,10 +97,9 @@ cat README.md
 
 ### Using with Claude Code
 ```bash
-# Add as a skill directory
-# Then just use natural language:
+# Add as a skill directory, then just use natural language:
 > "Run a Bayesian A/B test on our checkout flow"
-> "Score and enrich this lead list"  
+> "Score and enrich this lead list"
 > "Generate a 90-day content calendar"
 ```
 
