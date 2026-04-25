@@ -2,7 +2,7 @@
 
 # AI Marketing Claude Skills
 
-### AI-Powered Marketing Skills to Automate Operations and Drive ROI
+### AI-Powered Marketing Skills to Automate Operations and Drive Measurable ROI
 
 Built by **[Varun Kulkarni](https://github.com/varunk130)**
 
