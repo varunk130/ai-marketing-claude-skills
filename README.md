@@ -207,4 +207,6 @@ MIT — use these skills however you like.
 
 *Star ⭐ this repo if these skills save you time.*
 
+**Built by [Varun Kulkarni](https://github.com/varunk130)** · *Powered by Claude Code Opus 4.7 + GitHub Copilot*
+
 </div>
