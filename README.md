@@ -12,6 +12,7 @@ Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [GitHub
 [![Skills](https://img.shields.io/badge/Skills-11-blue?style=for-the-badge)](#-skill-catalog)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Agent Compatible](https://img.shields.io/badge/Agent-Compatible-purple?style=for-the-badge)](#compatibility)
+[![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=anthropic&logoColor=white)](https://claude.ai/code)
 
 ---
 
