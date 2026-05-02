@@ -6,10 +6,10 @@
 
 Built by **[Varun Kulkarni](https://github.com/varunk130)**
 
-**11 battle-tested skills** with scoring algorithms, statistical frameworks, and actionable outputs.
+**12 battle-tested skills** with scoring algorithms, statistical frameworks, and actionable outputs.
 Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [GitHub Copilot](https://github.com/features/copilot), [Cursor](https://cursor.sh), [OpenAI Codex](https://openai.com/codex), and any agent that supports markdown skill files.
 
-[![Skills](https://img.shields.io/badge/Skills-11-blue?style=for-the-badge)](#-skill-catalog)
+[![Skills](https://img.shields.io/badge/Skills-12-blue?style=for-the-badge)](#-skill-catalog)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Agent Compatible](https://img.shields.io/badge/Agent-Compatible-purple?style=for-the-badge)](#compatibility)
 [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=anthropic&logoColor=white)](https://claude.ai/code)
@@ -47,6 +47,7 @@ Each skill is a **self-contained markdown file** that transforms your AI coding 
 | 9 | **Podcast** | Guest fit scoring, sponsorship Cost Per Mille (CPM) calculator, cross-promo network mapping, audiogram automation | [→](./podcast-ops/) |
 | 10 | **Team** | Skills gap matrix, capacity utilization tracking, 1:1 prep generator, Objectives and Key Results (OKR) trajectory scoring | [→](./team-ops/) |
 | 11 | **Sales Playbook** | MEDDPICC + BANT hybrid qualification, mutual action plans, Return on Investment (ROI) calculator with Net Present Value (NPV), competitive displacement scoring | [→](./sales-playbook/) |
+| 12 | **Creative Ops** | LinkedIn ad creative testing: 3-angle variant generation, audience-aware sample sizing, sequential / Bayesian / fixed-horizon test selection, post-test diagnostic with angle-level signal | [→](./creative-ops/) |
 
 ---
 
