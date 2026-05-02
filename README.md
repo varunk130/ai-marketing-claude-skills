@@ -93,7 +93,7 @@ cd ai-marketing-claude-skills/growth-engine
 # 3. Read the skill README — that's the entire skill definition
 cat README.md
 
-# 4. Tell your AI agent to use it
+# 4. Tell your AI agent to use it (Claude Code, Copilot, Cursor, or any markdown-skill-aware agent)
 #    "Use the growth-engine skill to design an A/B test for our homepage"
 ```
 
