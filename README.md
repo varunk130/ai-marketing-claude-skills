@@ -29,7 +29,7 @@ Each skill is a **self-contained markdown file** that transforms your AI coding 
 >
 > **"Score this lead from Acme Corp"** → Sales Pipeline runs multi-channel intent scoring
 >
-> **"Audit our landing page for conversions"** → Conversion runs 12-dimension Conversion Rate Optimization (CRO) analysis
+> **"Audit our landing page for conversions"** → Conversion Ops runs 12-dimension Conversion Rate Optimization (CRO) analysis
 
 ---
 
