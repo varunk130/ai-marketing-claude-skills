@@ -171,7 +171,7 @@ graph LR
 
 ## 📁 Repository Structure
 
-```
+```text
 ai-marketing-claude-skills/
 ├── README.md                          ← You are here
 ├── growth-engine/README.md            ← Bayesian A/B testing & experimentation
