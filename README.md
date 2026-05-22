@@ -63,8 +63,8 @@ cat README.md
 
 ## 📋 Skill Catalog
 
-| # | Skill | Key Differentiations | Link |
-|:-:|-------|---------------------|:----:|
+| # | Skill | Key Differentiators | Link |
+|:-:|-------|--------------------|:----:|
 | 1 | **Growth Engine** | Bayesian testing, multi-armed bandits, Controlled-experiment Using Pre-Experiment Data (CUPED) variance reduction, experiment dependency graphs | [→](./growth-engine/) |
 | 2 | **Sales Pipeline** | Multi-channel intent scoring, AI enrichment (Clay/Apollo), predictive logistic regression, champion job tracking | [→](./sales-pipeline/) |
 | 3 | **Content** | Readability scoring, AI detection patterns, content decay monitoring, auto-refresh scheduling | [→](./content-ops/) |
