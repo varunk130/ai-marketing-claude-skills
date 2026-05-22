@@ -152,4 +152,4 @@ timeline_alignment: contract ending soon (10), mid-contract (5), recently renewe
 Compares current state costs against future state with your product. Outputs annual savings, revenue impact, payback period, and 3-year NPV.
 
 **What is MEDDPICC?**
-Metrics, Economic Buyer, Decision Process, Decision Criteria, Paper Process, Implicate Pain, Champion, Competition — a structured deal qualification methodology.
+Metrics, Economic Buyer, Decision Process, Decision Criteria, Paper Process, Implicate Pain, Champion, Competition - a structured deal qualification methodology.

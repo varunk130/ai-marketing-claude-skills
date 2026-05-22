@@ -1,4 +1,4 @@
-# ROI Worked Example — `revenue-intelligence`
+# ROI Worked Example - `revenue-intelligence`
 
 > Synthetic data. Numbers are illustrative.
 
@@ -6,8 +6,8 @@
 
 | Stage | Deals | Cycle days | Won |
 |---|---|---|---|
-| Discovery | 120 | 14 | — |
-| Eval | 60 | 28 | — |
+| Discovery | 120 | 14 | - |
+| Eval | 60 | 28 | - |
 | Negotiation | 24 | 21 | 6 |
 
 **Skill run:** `revenue-intelligence/next-best-action` on the pipeline export.

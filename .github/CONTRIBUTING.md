@@ -14,7 +14,7 @@ Thank you for your interest in contributing! This guide will help you get starte
 
 1. **Fork** the repository
 2. **Create a branch** from `main` (`git checkout -b feature/your-feature`)
-3. **Make your changes** — keep commits focused and descriptive
+3. **Make your changes** - keep commits focused and descriptive
 4. **Test your skill** by running it through an AI agent
 5. **Open a Pull Request** against `main`
 

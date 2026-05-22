@@ -23,7 +23,7 @@ Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [GitHub
 
 ## ⚡ What This Is
 
-Each skill is a **self-contained markdown file** that transforms your AI coding agent into a specialized marketing operator. No API keys required to start — just point your agent at a skill and give it a natural language command.
+Each skill is a **self-contained markdown file** that transforms your AI coding agent into a specialized marketing operator. No API keys required to start - just point your agent at a skill and give it a natural language command.
 
 > **"Run an A/B test on our pricing page"** → Growth Engine activates Bayesian testing framework
 >
@@ -209,7 +209,7 @@ python -m python_runtime.cli ci --successes 120 --trials 1000
 python -m python_runtime.cli sample-size --baseline 0.05 --mde 0.01
 ```
 
-**Zero runtime dependencies** — pure Python standard library. Tests use the built-in `unittest` module.
+**Zero runtime dependencies** - pure Python standard library. Tests use the built-in `unittest` module.
 
 ---
 
@@ -220,7 +220,7 @@ This repo is protected. To contribute:
 1. **Fork** the repository
 2. Create a **feature branch** (`git checkout -b feature/my-skill`)
 3. **Commit** your changes
-4. Open a **Pull Request** — all PRs require review and approval before merging
+4. Open a **Pull Request** - all PRs require review and approval before merging
 
 Direct pushes to `main` are not allowed.
 
@@ -228,7 +228,7 @@ Direct pushes to `main` are not allowed.
 
 ## 📄 License
 
-MIT — use these skills however you like.
+MIT - use these skills however you like.
 
 ---
 

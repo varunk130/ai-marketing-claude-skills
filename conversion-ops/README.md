@@ -118,7 +118,7 @@ Target: total friction < 35
 ## Frequently Asked Questions
 
 **Do I need heatmap data for the audit?**
-No — the 12-dimension audit works without heatmaps. But heatmap data from Hotjar or Clarity significantly improves the analysis.
+No - the 12-dimension audit works without heatmaps. But heatmap data from Hotjar or Clarity significantly improves the analysis.
 
 **What's a good CRO score?**
 Above 75/100 is strong. Most pages score 45-65 on first audit. Focus on the lowest-scoring dimensions first for maximum impact.
