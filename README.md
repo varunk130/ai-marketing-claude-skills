@@ -7,7 +7,7 @@
 Built by **[Varun Kulkarni](https://github.com/varunk130)**
 
 **12 battle-tested skills** with scoring algorithms, statistical frameworks, and actionable outputs.
-Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [GitHub Copilot](https://github.com/features/copilot), [Cursor](https://cursor.sh), [OpenAI Codex](https://openai.com/codex), and any agent that supports markdown skill files.
+Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [GitHub Copilot](https://github.com/features/copilot), [Cursor](https://www.cursor.com), OpenAI Codex, and any agent that supports markdown skill files.
 
 [![Skills](https://img.shields.io/badge/Skills-12-blue?style=for-the-badge)](#-skill-catalog)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
