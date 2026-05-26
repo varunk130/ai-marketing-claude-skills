@@ -231,7 +231,7 @@ Direct pushes to `main` are not allowed.
 
 ## 📄 License
 
-MIT - use these skills however you like.
+MIT — see [LICENSE](LICENSE) for the full text. Use these skills however you like.
 
 ---
 
