@@ -215,7 +215,7 @@ python -m python_runtime.cli sample-size --baseline 0.05 --mde 0.01
 
 ## 🤝 Contributing
 
-This repo is protected. To contribute:
+The `main` branch is protected. To contribute:
 
 1. **Fork** the repository
 2. Create a **feature branch** (`git checkout -b feature/my-skill`)
