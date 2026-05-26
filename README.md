@@ -185,7 +185,10 @@ ai-marketing-claude-skills/
 ├── podcast-ops/README.md              ← Podcast growth & monetization
 ├── team-ops/README.md                 ← Team performance & capacity
 ├── sales-playbook/README.md           ← Deal execution & methodology
-└── creative-ops/README.md             ← LinkedIn creative variant testing
+├── creative-ops/README.md             ← LinkedIn creative variant testing
+├── python_runtime/                    ← Shared scoring, statistical, and IO helpers
+├── examples/                          ← Runnable usage examples
+└── tests/                             ← unittest suite for the runtime
 ```
 
 ---
