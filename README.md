@@ -229,7 +229,7 @@ Direct pushes to `main` are not allowed.
 
 ---
 
-## Related work
+## Related Work
 
 Part of a portfolio of AI agent and skill libraries for product, GTM, and decision-making teams.
 
