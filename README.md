@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/hero.svg" alt="AI Marketing Claude Skills — 12 marketing-ops skills with scoring algorithms and statistical frameworks" width="100%"/>
+
 # 🎯 AI Marketing Claude Skills
 
 ### AI-Powered Marketing Skills to Automate Operations and Drive Measurable ROI
