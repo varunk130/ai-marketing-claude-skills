@@ -67,16 +67,16 @@ cat README.md
 |:-:|-------|--------------------|:----:|
 | 1 | **Growth Engine** | Bayesian testing, multi-armed bandits, Controlled-experiment Using Pre-Experiment Data (CUPED) variance reduction, experiment dependency graphs | [→](./growth-engine/) |
 | 2 | **Sales Pipeline** | Multi-channel intent scoring, AI enrichment (Clay/Apollo), predictive logistic regression, champion job tracking | [→](./sales-pipeline/) |
-| 3 | **Content** | Readability scoring, AI detection patterns, content decay monitoring, auto-refresh scheduling | [→](./content-ops/) |
-| 4 | **Conversion** | Heatmap-aware audits, session replay archetypes, micro-conversion funnels, Cialdini 6-principle scoring | [→](./conversion-ops/) |
+| 3 | **Content Ops** | Readability scoring, AI detection patterns, content decay monitoring, auto-refresh scheduling | [→](./content-ops/) |
+| 4 | **Conversion Ops** | Heatmap-aware audits, session replay archetypes, micro-conversion funnels, Cialdini 6-principle scoring | [→](./conversion-ops/) |
 | 5 | **Outbound Engine** | Multi-channel sequences (email+LinkedIn+video), deliverability warmup planner, timezone-aware scheduling, reply classification | [→](./outbound-engine/) |
 | 6 | **Search Engine Optimization (SEO)** | Generative Engine Optimization (GEO) / Answer Engine Optimization (AEO), topical authority mapping, Search Engine Results Page (SERP) feature win probability, cannibalization detection | [→](./seo-ops/) |
-| 7 | **Finance** | Cohort Lifetime Value (LTV) / Customer Acquisition Cost (CAC), channel unit economics, Software as a Service (SaaS) magic number, budget allocation optimizer | [→](./finance-ops/) |
+| 7 | **Finance Ops** | Cohort Lifetime Value (LTV) / Customer Acquisition Cost (CAC), channel unit economics, Software as a Service (SaaS) magic number, budget allocation optimizer | [→](./finance-ops/) |
 | 8 | **Revenue Intelligence** | Win/loss pattern recognition (chi-square), auto-generated battlecards, pricing sensitivity cliff analysis, champion tracking | [→](./revenue-intelligence/) |
-| 9 | **Podcast** | Guest fit scoring, sponsorship Cost Per Mille (CPM) calculator, cross-promo network mapping, audiogram automation | [→](./podcast-ops/) |
-| 10 | **Team** | Skills gap matrix, capacity utilization tracking, 1:1 prep generator, Objectives and Key Results (OKR) trajectory scoring | [→](./team-ops/) |
+| 9 | **Podcast Ops** | Guest fit scoring, sponsorship Cost Per Mille (CPM) calculator, cross-promo network mapping, audiogram automation | [→](./podcast-ops/) |
+| 10 | **Team Ops** | Skills gap matrix, capacity utilization tracking, 1:1 prep generator, Objectives and Key Results (OKR) trajectory scoring | [→](./team-ops/) |
 | 11 | **Sales Playbook** | MEDDPICC + BANT hybrid qualification, mutual action plans, Return on Investment (ROI) calculator with Net Present Value (NPV), competitive displacement scoring | [→](./sales-playbook/) |
-| 12 | **Creative** | LinkedIn ad creative testing: 3-angle variant generation, audience-aware sample sizing, sequential / Bayesian / fixed-horizon test selection, post-test diagnostic with angle-level signal | [→](./creative-ops/) |
+| 12 | **Creative Ops** | LinkedIn ad creative testing: 3-angle variant generation, audience-aware sample sizing, sequential / Bayesian / fixed-horizon test selection, post-test diagnostic with angle-level signal | [→](./creative-ops/) |
 
 ---
 
