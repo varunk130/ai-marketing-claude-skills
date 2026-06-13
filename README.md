@@ -25,7 +25,7 @@ Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [GitHub
 
 ## ⚡ What This Is
 
-Each skill is a **self-contained markdown file** that transforms your AI coding agent into a specialized marketing operator. No API keys required to start - just point your agent at a skill and give it a natural language command.
+Each skill is a **self-contained markdown file** that transforms your AI coding agent into a specialized marketing operator. No API keys required to start — just point your agent at a skill and give it a natural language command.
 
 > **"Run an A/B test on our pricing page"** → Growth Engine activates Bayesian testing framework
 >
