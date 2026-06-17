@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Documentation polish across skill READMEs.
+- Updated the ai-customer-discovery-skills status in Related Work (5 of 12 skills shipped).
 
 ## [1.0.0] - 2026-04-03
 
