@@ -9,7 +9,7 @@
 Built by **[Varun Kulkarni](https://github.com/varunk130)**
 
 **12 battle-tested skills** with scoring algorithms, statistical frameworks, and actionable outputs.
-Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [GitHub Copilot](https://github.com/features/copilot), [Cursor](https://www.cursor.com), OpenAI Codex, and any agent that supports markdown skill files.
+Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [GitHub Copilot](https://github.com/features/copilot), [Cursor](https://www.cursor.com), OpenAI Codex, and any agent that supports Markdown skill files.
 
 [![Skills](https://img.shields.io/badge/Skills-12-blue?style=for-the-badge)](#-skill-catalog)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -25,7 +25,7 @@ Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [GitHub
 
 ## ⚡ What This Is
 
-Each skill is a **self-contained markdown file** that transforms your AI coding agent into a specialized marketing operator. No API keys required to start — just point your agent at a skill and give it a natural language command.
+Each skill is a **self-contained Markdown file** that transforms your AI coding agent into a specialized marketing operator. No API keys required to start — just point your agent at a skill and give it a natural language command.
 
 > **"Run an A/B test on our pricing page"** → Growth Engine activates Bayesian testing framework
 >
@@ -48,7 +48,7 @@ cd ai-marketing-claude-skills/growth-engine
 cat README.md
 
 # 4. Tell your AI agent to use it (Claude Code, Copilot, Cursor,
-#    or any markdown-skill-aware agent)
+#    or any Markdown-skill-aware agent)
 #    "Use the growth-engine skill to design an A/B test for our homepage"
 ```
 
@@ -167,7 +167,7 @@ graph LR
 | OpenAI Codex | ✅ Full support |
 | Windsurf | ✅ Full support |
 | GitHub Copilot | ✅ Full support |
-| Any markdown-skill agent | ✅ Full support |
+| Any Markdown-skill agent | ✅ Full support |
 
 ---
 
