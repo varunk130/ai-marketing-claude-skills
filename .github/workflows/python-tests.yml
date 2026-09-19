@@ -21,6 +21,8 @@ jobs:
           python-version: ${{ matrix.python-version }}
       - name: Compile-check Python files
         run: |
-          python -m compileall -q python_runtime tests examples
+          python -m compileall -q python_runtime scripts tests examples
+      - name: Validate SKILL.md frontmatter
+        run: python -m scripts.validate_skills
       - name: Run unit tests
         run: python -m unittest discover -v
