@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- `SKILL.md` for all 12 skills so Claude Code, Copilot, and other agents can load them directly.
+- `scripts/validate_skills.py` frontmatter validator, wired into CI.
+- `scripts/install.py` to install skills into `~/.claude/skills` or a repo's `.github/skills`.
+- Voice Guard quality gate (`voice-guard/`, `python_runtime/voice.py`) for scoring generated copy.
+
 ### Changed
 - Corrected the AI-Eval-Skills reference in Related Work to 7 skills (the upstream repo added the tool-use-eval skill).
 - Added the three Next.js multi-agent demos (Compound, Beacon, Atlas) to the Related Work section.
