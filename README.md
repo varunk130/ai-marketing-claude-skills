@@ -44,8 +44,8 @@ git clone https://github.com/varunk130/ai-marketing-claude-skills.git
 # 2. Navigate to any skill
 cd ai-marketing-claude-skills/growth-engine
 
-# 3. Read the skill README — that's the entire skill definition
-cat README.md
+# 3. Read the skill — SKILL.md is what agents load; README.md is the full methodology
+cat SKILL.md README.md
 
 # 4. Tell your AI agent to use it (Claude Code, Copilot, Cursor,
 #    or any Markdown-skill-aware agent)
@@ -55,7 +55,13 @@ cat README.md
 ### Using with Claude Code
 
 ```bash
-# Add as a skill directory, then just use natural language:
+# Install every skill into ~/.claude/skills (validates SKILL.md first)
+python -m scripts.install
+
+# Or into a repo for GitHub Copilot
+python -m scripts.install --target .github/skills
+
+# Then just use natural language:
 > "Run a Bayesian A/B test on our checkout flow"
 > "Score and enrich this lead list"
 > "Generate a 90-day content calendar"
@@ -79,6 +85,8 @@ cat README.md
 | 10 | **Team Ops** | Skills gap matrix, capacity utilization tracking, 1:1 prep generator, Objectives and Key Results (OKR) trajectory scoring | [→](./team-ops/) |
 | 11 | **Sales Playbook** | MEDDPICC + BANT hybrid qualification, mutual action plans, Return on Investment (ROI) calculator with Net Present Value (NPV), competitive displacement scoring | [→](./sales-playbook/) |
 | 12 | **Creative Ops** | LinkedIn ad creative testing: 3-angle variant generation, audience-aware sample sizing, sequential / Bayesian / fixed-horizon test selection, post-test diagnostic with angle-level signal | [→](./creative-ops/) |
+
+**Quality gate:** [**Voice Guard**](./voice-guard/) scores any generated copy (0-100) for filler, hype, hedging, em-dash overuse, and flat rhythm, and quotes each phrase to fix. Run it on output from the skills above before it ships.
 
 ---
 
