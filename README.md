@@ -23,6 +23,22 @@ Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [GitHub
 
 </div>
 
+## Table of Contents
+
+- [What This Is](#-what-this-is)
+- [Quick Start](#-quick-start)
+- [Skill Catalog](#-skill-catalog)
+- [How Skills Work](#-how-skills-work)
+- [Skill Interaction Map](#️-skill-interaction-map)
+- [Compatibility](#-compatibility)
+- [Repository Structure](#-repository-structure)
+- [Python Runtime](#python-runtime)
+- [Contributing](#-contributing)
+- [Related Work](#related-work)
+- [License](#-license)
+
+---
+
 ## ⚡ What This Is
 
 Each skill is a **self-contained Markdown file** that transforms your AI coding agent into a specialized marketing operator. No API keys required to start — just point your agent at a skill and give it a natural language command.
