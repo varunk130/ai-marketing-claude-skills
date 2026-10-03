@@ -304,6 +304,6 @@ MIT — see [LICENSE](LICENSE) for the full text. Use these skills however you l
 
 *Star ⭐ this repo if these skills save you time.*
 
-**Built by [Varun Kulkarni](https://github.com/varunk130)** · *Powered by Claude Code Opus 4.7 + GitHub Copilot*
+**Built by [Varun Kulkarni](https://github.com/varunk130)** · *Can be used in Claude Code, OpenAI Codex, or GitHub Copilot*
 
 </div>
