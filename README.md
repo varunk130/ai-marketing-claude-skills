@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="AI Marketing Claude Skills — 12 marketing-ops skills with scoring algorithms and statistical frameworks" width="100%"/>
+<img src="assets/hero.svg" alt="AI Marketing Claude Skills — 13 marketing-ops skills with scoring algorithms and statistical frameworks" width="100%"/>
 
 # 🎯 AI Marketing Claude Skills
 
@@ -8,10 +8,10 @@
 
 Built by **[Varun Kulkarni](https://github.com/varunk130)**
 
-**12 battle-tested skills** with scoring algorithms, statistical frameworks, and actionable outputs.
+**13 battle-tested skills** with scoring algorithms, statistical frameworks, and actionable outputs.
 Built for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [GitHub Copilot](https://github.com/features/copilot), [Cursor](https://www.cursor.com), OpenAI Codex, and any agent that supports Markdown skill files.
 
-[![Skills](https://img.shields.io/badge/Skills-12-blue?style=for-the-badge)](#-skill-catalog)
+[![Skills](https://img.shields.io/badge/Skills-13-blue?style=for-the-badge)](#-skill-catalog)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Agent Compatible](https://img.shields.io/badge/Agent-Compatible-purple?style=for-the-badge)](#-compatibility)
 [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=anthropic&logoColor=white&style=for-the-badge)](https://claude.ai/code)
