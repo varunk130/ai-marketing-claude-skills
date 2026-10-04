@@ -16,12 +16,22 @@ from .statistical import (
     sample_size_for_proportion,
     welch_t_test,
 )
+from .io_helpers import (
+    read_csv,
+    write_csv,
+    read_jsonl,
+    write_jsonl,
+)
 
 __all__ = [
     "LeadScore",
     "score_lead",
     "score_account",
     "blend_scores",
+    "read_csv",
+    "write_csv",
+    "read_jsonl",
+    "write_jsonl",
     "confidence_interval",
     "sample_size_for_proportion",
     "welch_t_test",
