@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- The documented IO helpers (`read_csv`, `write_csv`, `read_jsonl`, `write_jsonl`) are now exported from `python_runtime`, so the runtime surface described in the README actually resolves.
 - Table of Contents in the README for faster navigation.
 - `SKILL.md` for all 12 skills so Claude Code, Copilot, and other agents can load them directly.
 - `scripts/validate_skills.py` frontmatter validator, wired into CI.
