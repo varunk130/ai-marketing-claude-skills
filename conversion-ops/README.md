@@ -62,7 +62,7 @@ MIN_SOCIAL_PROOF_COUNT=3            # minimum testimonials/logos required
 | Urgency/Scarcity | 10 | Deadlines, limited spots, countdown timers |
 | Form Optimization | 10 | Field count, progressive profiling, autofill |
 | Mobile Experience | 10 | Thumb zones, tap targets, responsive images |
-| Content Scanability | 10 | Bullets, headers, bold key phrases, short paragraphs |
+| Content Scannability | 10 | Bullets, headers, bold key phrases, short paragraphs |
 | Objection Handling | 10 | FAQ, comparison tables, risk reversal |
 | Exit Intent Strategy | 10 | Exit popups, scroll-triggered offers, sticky CTAs |
 
