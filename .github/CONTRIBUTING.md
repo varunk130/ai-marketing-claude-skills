@@ -31,6 +31,7 @@ Each skill must follow this structure:
 
 ```
 skill-name/
+├── SKILL.md
 └── README.md
 ```
 
