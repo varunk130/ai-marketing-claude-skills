@@ -212,6 +212,7 @@ ai-marketing-claude-skills/
 ├── team-ops/README.md                 ← Team performance & capacity
 ├── sales-playbook/README.md           ← Deal execution & methodology
 ├── creative-ops/README.md             ← LinkedIn creative variant testing
+├── voice-guard/README.md              ← Copy quality gate for generated output
 ├── python_runtime/                    ← Shared scoring, statistical, and IO helpers
 ├── examples/                          ← Runnable usage examples
 └── tests/                             ← unittest suite for the runtime
