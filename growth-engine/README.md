@@ -66,7 +66,7 @@ BANDIT_EXPLORATION_RATE=0.1     # epsilon for Thompson Sampling
 
 ## Output Formats
 
-- **Experiment Report** -- markdown with posterior plots, credible intervals, sample sizes, duration
+- **Experiment Report** -- Markdown with posterior plots, credible intervals, sample sizes, duration
 - **Playbook Entry** -- structured JSON with tags, channel, lift, confidence, screenshots
 - **Dependency Graph** -- mermaid diagram of active experiments and conflicts
 - **Weekly Scorecard** -- aggregated experiment velocity, win rate, cumulative lift
