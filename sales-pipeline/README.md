@@ -75,7 +75,7 @@ Call signals: inbound call (40pts), demo booked (50pts), referred by customer (1
 
 - **Lead Scorecard** -- enriched profile with intent score, ICP match, recommended action
 - **Pipeline Dashboard** -- deals by stage with velocity indicators (green/yellow/red)
-- **Champion Alert** -- markdown notification with old role, new role, recommended outreach
+- **Champion Alert** -- Markdown notification with old role, new role, recommended outreach
 - **ICP Drift Report** -- monthly comparison of ICP vs actual conversions with weight adjustments
 - **Deal Forecast** -- probability-weighted pipeline value by close date
 
