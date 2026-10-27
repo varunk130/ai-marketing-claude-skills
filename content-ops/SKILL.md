@@ -17,7 +17,7 @@ Content quality assurance system that combines expert panel evaluation with auto
 - Check brand voice consistency
 
 ## Workflow
-1. **Ingest Content** -- accept draft from any format (Google Doc, markdown, Notion, raw text)
+1. **Ingest Content** -- accept draft from any format (Google Doc, Markdown, Notion, raw text)
 2. **Readability Scan** -- calculate Flesch-Kincaid + Dale-Chall scores, flag structural issues
 3. **Originality Check** -- compare against published content library for overlap
 4. **AI Detection Pass** -- scan for AI-generated content patterns, flag for humanization
