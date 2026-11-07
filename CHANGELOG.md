@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Voice Guard quality gate (`voice-guard/`, `python_runtime/voice.py`) for scoring generated copy.
 
 ### Changed
+- Capitalized Markdown in the content-ops, growth-engine, and sales-pipeline docs.
 - Corrected the skill count to 13 in the badge, hero image, and intro.
 - Corrected the ai-ux-skill-library reference in Related Work to 13 frameworks.
 - Reworded the footer to list Claude Code, OpenAI Codex, and GitHub Copilot.
