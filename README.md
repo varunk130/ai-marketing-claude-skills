@@ -267,7 +267,7 @@ Part of a portfolio of AI agent and skill libraries for product, GTM, and decisi
 
 **Strategy & decisions**
 
-- [claude-code-skills](https://github.com/varunk130/claude-code-skills) — 29 production-grade skills for finance, product, strategy, and game theory
+- [claude-code-skills](https://github.com/varunk130/claude-code-skills) — 42 production-grade skills across AI UX, AI marketing, finance, product, strategy, and game theory
 - [AI-Builder-Decision-Analyst](https://github.com/varunk130/AI-Builder-Decision-Analyst) — 11 skills that catch bad bets before you ship across DECIDE / BUILD / COMMUNICATE / LEARN
 
 **Go-to-market**
