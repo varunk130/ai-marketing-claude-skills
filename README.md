@@ -275,6 +275,7 @@ Part of a portfolio of AI agent and skill libraries for product, GTM, and decisi
 - [ai-gtm-skill-library](https://github.com/varunk130/ai-gtm-skill-library) — 37 opinionated GTM skills across the full discover → renew lifecycle
 - [ai-marketing-os](https://github.com/varunk130/ai-marketing-os) — Run a marketing org as an orchestrated AI team: 9 agents, 12 expert skills, end-to-end missions that ship real artifacts
 - [ai-partner-ecosystem-analysis](https://github.com/varunk130/ai-partner-ecosystem-analysis) — Deep research on any ISV, partner, or competitor with a 1-slide PPTX output
+- [ai-strategic-partnerships-skills](https://github.com/varunk130/ai-strategic-partnerships-skills) — 12 skills for partnership strategy, deal design, negotiation, and agentic trust terms
 
 **UX & design**
 
